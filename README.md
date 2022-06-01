@@ -1,4 +1,4 @@
-Mostly like the payment gateways have done it already. But here it is. 
+Most likely the payment gateway guys have done it already. But here it is. 
 
 ### Basic Logic
 
